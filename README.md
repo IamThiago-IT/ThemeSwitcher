@@ -1,71 +1,57 @@
-# Teste de Frontend
-Web, 1x
+# ReactJS - Theme Switcher
 
-## Color palette
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-themeswitcher/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-themeswitcher.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-themeswitcher.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-themeswitcher.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-themeswitcher.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-themeswitcher.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-themeswitcher.svg?color=blueviolet)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
- - White
- - Rebecca purple
- - Very light pink
- - Dark grey blue
- - Dark blue grey
- - Pine green
- - Light sky blue
- - Light blue grey
- - Greyish brown
+Aplicação Theme Switcher usando Create React App, TypeScript, polished, react-switch e styled-components.
 
- ## Text style catalog
+## Índice
 
- - Label
-   - Inter, Semibold, 18px
+- [Desenvolvimento](#desenvolvimento)
 
- - Paragraph
-   - Inter, Regular, 14px
-   - Line height: 24px
+  - [Configuração do Ambiente](#configuração-do-ambiente)
 
-## Layout
-Participamos da elaboração do Layout com UX e UI. Note que foram criados todos os cenários possíveis para essa aplicação, mas foque nas demandas solicitadas 😘.
+  - [Instalação do Projeto](#instalação-do-projeto)
 
-Eles disponibilizaram os layouts aqui:
+  - [Execução do Projeto](#execução-do-projeto)
 
-#### ZEPLIN (apenas para consulta):
-[Aqui](https://scene.zeplin.io/project/5c800a66fd01aebc6079baf9)
+- [Utilizados no Projeto](#utilizados-no-projeto)
 
-#### FIGMA (para visualizar propriedades de css):
-[Aqui](https://www.figma.com/file/Ly86lgfa2qYMB1mV1FYpLEQT/frontend-test?node-id=0%3A2)
+  - [Bibliotecas](#bibliotecas)
 
-## Código
-Você deve utilizar esse código, ~que tá uma beleza~, para iniciar o seu teste, mas fique livre para copiar o conteúdo para outro sandbox e utilizar as dependências que achar melhor. 
+## Desenvolvimento
 
-> 📙 Vamos avaliar seu JavaScript, HTML e CSS independentemente das bibliotecas que você utilizar.
+### Configuração do Ambiente
 
-[Aqui](https://codesandbox.io/s/frontend-dchtk)
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
 
-## Primeira parte: colocando ordem na casa.
-- [ ] Precisamos deixar o HTML semântico, use as tags HTML que correspondem corretamente aos cenários aplicados.
-- [ ] Fique a vontade para mudar a estrutura caso ache necessário, mas precisa ser fiel ao layout.
-- [ ] Na tag `<html>`, está faltando um parâmetro que é obrigatório. Você consegue identificar e aplicar?
+### Instalação do Projeto
 
-## Segunda parte: tornando a casa acessível.
-- [ ] Vixe!😱 Parece que o HTML não está totalmente acessível. Você consegue melhorar a acessibilidade?
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
 
-## Terceira parte: o contador de stickers.
-- [ ] Precisamos fazer o componente de contador funcionar para que o usuário possa definir a quantidade de stickers que deseja comprar. 
+### Execução do Projeto
 
-![](contador.gif)
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
 
-## Bonus: Vamos validar o formulário?!
-Validações de formulário ajudam o usuário a não se perder durante o preenchimento das informações  necessárias. Ajude  nessa causa 🙃.
+## Utilizados no Projeto
 
-> 📙 _Caso você utilize o Figma, terá acesso a uma ferramenta muito boa para consumir o layout, com acesso ao CSS, imagens e métricas. Basta criar a sua conta e utilizar._
+### Bibliotecas
 
+- [@types/styled-components](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-styled-components.md)
 
-----
+- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
 
+- [polished](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/polished.md)
 
-## Links importantes
-Eles podem te auxiliar no desenvolvimento do teste:
+- [react-switch](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-switch.md)
 
-- https://developer.mozilla.org/pt-BR/docs/Web
-- https://developer.mozilla.org/pt-BR/docs/Web/Accessibility/ARIA
+- [styled-components](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/styled-components.md)
 
-----
+- [TypeScript](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/typescript.md)
